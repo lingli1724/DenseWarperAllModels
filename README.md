@@ -1,3 +1,5 @@
+Checkpoint Lists:
+
 GLA-GCN_3DHP:/data/zhanggl/lyx/ccj/GLA-GCN_3dhp/checkpoint/3dhp/96_adafuse_243_supervised_epoch_127.bin
 KTP-Former_3DHP:/data/zhanggl/lyx/ccj/KTPFormer_3dhp/checkpoint/s_128_L_7_C_512_H_8_f_243_ktpformer_adafuse_best_epoch.bin
 Adafuse_3DHP:/data/zhanggl/lyx/ccj/adafuse/output/multiview_3dhp_2d/multiview_pose_resnet_152/3dhp/model_best.pth.tar
